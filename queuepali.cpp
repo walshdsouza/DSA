@@ -89,7 +89,7 @@ int main(){
         cout<<"No valid characters entered to check."<<endl;
 
     }
-    if(isPalindrome){
+    else if(isPalindrome){
         cout<<"Entered string is a palindrome."<<endl;
 
     }
