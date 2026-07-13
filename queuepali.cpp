@@ -8,7 +8,7 @@ class Queue{
     private:
     int front;
     int rear;
-    int arr[MAX_SIZE];
+    char arr[MAX_SIZE];
 
     public:
     Queue(){
